@@ -1,0 +1,39 @@
+.searchbarHeader {
+  background-color: #3f51b5;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 25px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.searchbarForm {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.searchbarInput {
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  outline: none;
+  width: 400px;
+}
+
+.searchbarButton {
+  background-color: transparent;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.searchIcon {
+  color: #000;
+  font-size: 18px;
+}
